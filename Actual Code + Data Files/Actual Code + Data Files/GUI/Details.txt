@@ -1,0 +1,21 @@
+- 3 Rooms (S,M,L) (Red)
+- 2 Cart (iPADS, PixelC) (Orange)
+- 3 Laptop (Mac, Chromebook, Alienware) (Blue)
+- 3 Mantiance (1hr) 
+
+1) Calendar, Mantain
+
+Q) Peroid of use (Weekof) (Time) (Usage)
+Q) Pirioty (School event ONLY)
+Q) Type of Device (Type)
+Q) Activities (Pericious)
+Q) Prepration and Cleanup (PTime, CTime)
+
+
+Q) Possible options/ Try a different arrangment
+
+R2# User-Decive-Time-Date-Usage
+R1# User-Name    0123 |_____|
+R3# Decive-Review
+
+2/3 1/2  0/3
